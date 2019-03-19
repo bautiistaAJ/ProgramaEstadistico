@@ -1,8 +1,8 @@
 ///////////////////////////////////////
-//   Datos estadisticos				  /
-//   Fecha: 17/03/2019                /
-// Autor: Arturo Bautista de Jesus   /
-//	 Version: 1.0                     / 
+//   Datos estadisticos        	     //
+//   Fecha: 17/03/2019               //
+// Autor: Arturo Bautista de Jesus   //
+//	 Version: 1.0                // 
 ///////////////////////////////////////
 
 
