@@ -1,7 +1,7 @@
 ///////////////////////////////////////
 //   Datos estadisticos				  /
 //   Fecha: 17/03/2019                /
-// UPEMOR - Universidad Politecnica   /
+// Autor: Arturo Bautista de Jesus   /
 //	 Version: 1.0                     / 
 ///////////////////////////////////////
 
@@ -152,7 +152,7 @@ void medidasEstadisticas(int vector[]){
 	
 	printf("La media es: %.2f\n",media);
 	printf("La varianza es: %.2f \n",varianza);
-	printf("La desviación estandar es: %.2f \n",desviacion);
+	printf("La desviaciÃ³n estandar es: %.2f \n",desviacion);
 	printf("La moda es: %i\n",moda);
 	
 	getch();
